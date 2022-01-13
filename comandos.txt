@@ -1,0 +1,7 @@
+aqui vc inclui todos os comandos que vc possa ter um lugar unico onde possa consultar os comandos
+
+- git status
+- git pull
+- git add .
+- git commit -m "informacoes sobre o commit"
+- git push
